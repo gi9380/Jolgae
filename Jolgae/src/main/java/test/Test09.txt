@@ -1,0 +1,9 @@
+10개 채울것임9 너무 졸립읍니다..
+**merge**
+sgHan에서 merge할 경우 : sgHan에 병합됨(합쳐짐).
+main(sgHan)에서 merge할 경우 : main(sgHan)에 병합됨(합쳐짐). 
+
+**용어**
+commit -> 중간저장
+push -> 등록
+merge -> 병합
