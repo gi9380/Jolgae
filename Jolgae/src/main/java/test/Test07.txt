@@ -1,0 +1,7 @@
+10개 채울것임7
+<sgHan에서 메인으로 등록하기>
+1. sgHan에서 파일 수정
+2. sgHan -> commit and push
+3. main(sgHan) -> pull (메인 바뀐거 있나 확인)
+4. main(sgHan)에서 main(sgHan)과 sgHan Merge
+5. main(sgHan)에서 main으로 push to origin
