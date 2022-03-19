@@ -1,0 +1,6 @@
+10개 채울것임8
+<메인에서 sgHan으로 가져오기(등록하기)>
+1. main(sgHan)에서 main을 pull
+2. sgHan에서 main(sgHan)과 merge
+3. sgHan을 commit and push(sgHan origin에 넣어줌)
+4. 가져오기 완료!
